@@ -1,5 +1,5 @@
 alert("hello")
-//test anything
+//test anythingdddddd
 
 function simplifyPath(path) {
   // Split the path by " > " to get individual elements
