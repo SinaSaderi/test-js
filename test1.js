@@ -1,5 +1,3 @@
-alert("hello")
-//test anythingdddddd
 
 function simplifyPath(path) {
   // Split the path by " > " to get individual elements
@@ -143,5 +141,3 @@ document.addEventListener("DOMContentLoaded", function () {
       });
   });
 });
-
-
