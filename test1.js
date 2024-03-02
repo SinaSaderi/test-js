@@ -1,4 +1,4 @@
-
+//start testing
 function simplifyPath(path) {
   // Split the path by " > " to get individual elements
   let elements = path.split(" > ");
