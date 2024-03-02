@@ -27,7 +27,6 @@ let simplifiedPath = simplifyPath(originalPath);
 console.log(simplifiedPath);
 // Output should be: "html > body.test-class > div.col-md-4 > div.p-3 > h5.mt-3"
 
-
 document.addEventListener("DOMContentLoaded", function () {
   const overlay = document.createElement("div");
   overlay.style.position = "absolute";
@@ -141,3 +140,5 @@ document.addEventListener("DOMContentLoaded", function () {
       });
   });
 });
+
+
