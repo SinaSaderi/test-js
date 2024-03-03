@@ -18,7 +18,7 @@ function simplifyPath(path) {
   });
 
   // Join the processed elements back into a path
-  return simplifiedElements.join(" > ");
+  return simplifiedElements.join(" <<<>>>> ");
 }
 
 let originalPath = "html > body.test-class.desktop.chakra-ui-light > div.col-md-4.position-relative > div.p-3.text-center > h5.mt-3";
